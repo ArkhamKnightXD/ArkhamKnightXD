@@ -4,7 +4,7 @@
 ## I'm a Web Developer
 
 - 🌱 I’m currently learning everything 🤣 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 I also like to develop games in Unity
 - ⚡ Fun fact: I love to watch movies and play videogames
 
 
