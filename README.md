@@ -4,7 +4,7 @@
 ## I'm a Web Developer
 
 - 🌱 I’m currently learning everything 🤣 
-- 🥅 I also like to develop games in Unity
+- 🥅 Trying the game dev life XD 
 - ⚡ Fun fact: I love to watch movies and play videogames
 
 
